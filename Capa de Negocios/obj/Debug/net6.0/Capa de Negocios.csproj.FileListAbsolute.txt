@@ -1,0 +1,17 @@
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa de Negocios.deps.json
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa de Negocios.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\ref\Capa de Negocios.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa de Negocios.pdb
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa de Acceso a Datos.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa.Domain.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa de Acceso a Datos.pdb
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\bin\Debug\net6.0\Capa.Domain.pdb
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.csproj.AssemblyReference.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.AssemblyInfoInputs.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.AssemblyInfo.cs
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.csproj.CoreCompileInputs.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.csproj.CopyComplete
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\ref\Capa de Negocios.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Negocios\obj\Debug\net6.0\Capa de Negocios.pdb

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Capa_de_Negocios</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capa de Acceso a Datos\Capa de Acceso a Datos.csproj" />
+    <ProjectReference Include="..\Capa.Domain\Capa.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d31c7821-5837-4537-bb44-85d349b21943": {
+      "ProjectGuid": "d31c7821-5837-4537-bb44-85d349b21943",
+      "DisplayName": "CapaAccesoDatos",
+      "ColorIndex": 0
+    },
+    "c67ae850-9fb3-4e3f-8ddb-dbc6e8b330fe": {
+      "ProjectGuid": "c67ae850-9fb3-4e3f-8ddb-dbc6e8b330fe",
+      "DisplayName": "Capa de Acceso a Datos",
+      "ColorIndex": 1
+    },
+    "dcf3976f-4ed7-46a2-bb9c-f84f477018a2": {
+      "ProjectGuid": "dcf3976f-4ed7-46a2-bb9c-f84f477018a2",
+      "DisplayName": "Capa de Servicios",
+      "ColorIndex": 2
+    },
+    "d6b2fdad-d837-4cd3-822e-fd94f64f2265": {
+      "ProjectGuid": "d6b2fdad-d837-4cd3-822e-fd94f64f2265",
+      "DisplayName": "Capa.Domain",
+      "ColorIndex": 3
+    },
+    "0f8c0282-f62d-43af-895f-c294d2fd6229": {
+      "ProjectGuid": "0f8c0282-f62d-43af-895f-c294d2fd6229",
+      "DisplayName": "Capa de Negocios",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a5432621-8171-404e-967f-ee1b9a052714": {
+      "ProjectGuid": "a5432621-8171-404e-967f-ee1b9a052714",
+      "DisplayName": "Capa.Servicios",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,14 @@
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\bin\Debug\net6.0\Capa de Acceso a Datos.deps.json
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\bin\Debug\net6.0\Capa de Acceso a Datos.runtimeconfig.json
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\bin\Debug\net6.0\Capa de Acceso a Datos.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\bin\Debug\net6.0\ref\Capa de Acceso a Datos.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\bin\Debug\net6.0\Capa de Acceso a Datos.pdb
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.AssemblyInfoInputs.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.AssemblyInfo.cs
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.csproj.CoreCompileInputs.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\ref\Capa de Acceso a Datos.dll
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.pdb
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.genruntimeconfig.cache
+C:\Six Degrees IT\WebApplicationSixDegreesIT\Capa de Acceso a Datos\obj\Debug\net6.0\Capa de Acceso a Datos.csproj.AssemblyReference.cache

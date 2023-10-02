@@ -1,0 +1,77 @@
+<mat-progress-bar mode="determinate" value="40">
+</mat-progress-bar>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a routerLink="/">Home</a></li>
+      <li class="breadcrumb-item active">Usuario</li>
+    </ol>
+</nav>
+ 
+
+  <div class="card">
+    <div class="header">
+      <h2 class="title">Usuario List</h2>
+    </div>
+  
+    <div class="mat-elevation-z8">
+    
+      <div class="form">
+          
+        <mat-form-field floatPlaceholder="never" color="accent">
+          <input matInput type="text" (keyup)="doFilter($event)" placeholder="Filter">
+        </mat-form-field>
+      </div>
+  
+      <table mat-table [dataSource]="personas" matSort>
+    
+        <!-- ID Column -->
+        <ng-container matColumnDef="usuId">
+          <mat-header-cell *matHeaderCellDef mat-sort-header> ID </mat-header-cell>
+          <mat-cell *matCellDef="let row"> {{row.usuId}}</mat-cell>
+        </ng-container>
+    
+        <!-- Name Column -->
+        <ng-container matColumnDef="nombre">
+          <mat-header-cell *matHeaderCellDef mat-sort-header> Nombre </mat-header-cell>
+          <mat-cell *matCellDef="let row">{{row.nombre}}</mat-cell>
+        </ng-container>
+    
+        <!-- apellido Column -->
+        <ng-container matColumnDef="apellido">
+          <mat-header-cell *matHeaderCellDef mat-sort-header> Apellidos </mat-header-cell>
+          <mat-cell *matCellDef="let row"> {{row.apellido}}  </mat-cell>
+        </ng-container>
+    
+      
+        
+          <!-- actions -->
+    <ng-container matColumnDef="actions">
+      <mat-header-cell *matHeaderCellDef>
+        <button mat-icon-button color="primary" (click)="addNew()">
+          <mat-icon aria-label="Example icon-button with a heart icon">add</mat-icon>
+        </button>
+      </mat-header-cell>
+
+      <mat-cell *matCellDef="let row; let i=index;">    <!--  startEdit(i: number, id: number, nombre: string, apellido: string, fechaNacimiento: Date, foto: string, estadoCivil: string, tieneHermanod: boolean) { -->
+        <button mat-icon-button color="accent" (click)="startEdit(i, row.usuId, row.nombre, row.apellido)">
+          <mat-icon aria-label="Edit">edit</mat-icon>
+        </button>
+
+        <button mat-icon-button color="accent" (click)="deleteItem(i, row.usuId, row.nombre, row.apellido)">
+          <mat-icon aria-label="Delete">delete</mat-icon>
+        </button>
+      </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+    
+        <!-- Row shown when there is no matching data.
+        <tr class="mat-row" *matNoDataRow>
+          <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
+        </tr> -->
+      </table>
+      <mat-paginator [pageSize]="2" [pageSizeOptions]="[2, 4, 6, 10, 20, 100]">
+      </mat-paginator>      
+    </div>
+
+  </div>
