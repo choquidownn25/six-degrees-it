@@ -4,17 +4,7 @@ paginación. Que se pueda recuperar todos o filtrar por uno específico
 
 
 
-![userrolemembership1](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/Descripcion.jpg)
-
-![userrolemembership2](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/Post.jpg)
-
-![userrolemembership3](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/PostDos.jpg)
-
-![userrolemembership4](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/Get.jpg)
-
-![userrolemembership5](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/GetById.jpg)
-
-![userrolemembership6](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/Update.jpg)
+![userrolemembership1](https://github.com/choquidownn25/six-degrees-it/blob/main/Imagen/Filtro.jpg)
 
 ![userrolemembership7](https://github.com/choquidownn25/claro/blob/main/Backend/templete-hexagonal-main/img/UpdateDos.jpg)
 
